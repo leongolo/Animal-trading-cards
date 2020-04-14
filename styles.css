@@ -1,0 +1,27 @@
+.fact{
+  font-style: italic;}
+.overview{
+  font-weight: bold;}
+.no{
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+.font{
+  font: 12px Georgia, sans-serif;
+}
+.outer{
+  width: 320px;
+  border: 1px solid grey;
+  padding: 10px;
+  margin: 5px;
+  box-shadow: 5px 5px 8px grey;
+}
+.inner{
+  width: 290px;
+  border: 1px solid grey;
+  padding: 5px;
+}
+.image{
+  padding: 10px 0;
+}
